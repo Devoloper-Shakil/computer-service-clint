@@ -1,0 +1,13 @@
+.service{
+    background: #ccb9b9;
+}
+.service:hover{
+ background: red;
+ transform:rotateX(30deg);
+ color:white;
+ 
+}
+.service-conteiner{
+ height:600px;
+ 
+}
